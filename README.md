@@ -1,2 +1,3 @@
 # bookbot
-https://www.boot.dev/lessons/6be4c2a9-32ce-4e44-b400-e979d8e2462c
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
